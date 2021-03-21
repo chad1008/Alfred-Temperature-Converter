@@ -2,6 +2,9 @@
 
 This workflow will output temperatures converted between Fahrenheit and Celsius.
 
+## Installation
+Please download the `Temperature.Converter.alfredworkflow` file from the [latest release](https://github.com/chad1008/Alfred-Temperature-Converter/releases) . Once downloaded, open the file to install or update the workflow.
+
 ## Converting Temperatures
 The workflow can be activated by entering the keyword `tc` (short for Temperature Converter) into Alfred.
 
